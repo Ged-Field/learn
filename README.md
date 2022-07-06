@@ -4,6 +4,6 @@ I appreciate any kind of *feedback* or *suggestions*.
 Please email <a href="mailto:twang.hello@hotmail.com" target="_blank">twang.hello@hotmail.com</a>, [`issues`](https://github.com/Ged-Field/learn/issues),
 or [`pull request`](https://github.com/Ged-Field/learn/pulls).
 
-<br><hr>
+<hr>
 
 - [Java](#java)
